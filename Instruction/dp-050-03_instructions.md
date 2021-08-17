@@ -53,7 +53,7 @@
     | 가용성 옵션 | 인프라 중복이 필요하지 않습니다. |
     | 이미지 | 무료 SQL Server 라이선스: Windows Server 2019의 SQL Server 2017 Developer - Gen1 |
     | Azure Spot 인스턴스 | 아니요 |
-    | 크기 | Standard_D2_v2 |
+    | 크기 | Standard_D2s_v3 |
     | 사용자 이름 | sqladmin |
     | 암호 | Pa55w.rdPa55w.rd |
     | 암호 확인 | Pa55w.rdPa55w.rd |
